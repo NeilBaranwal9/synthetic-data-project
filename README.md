@@ -38,7 +38,7 @@ This repository contains a complete pipeline for generating high-quality, privac
 
 ## 📂 Output
 
-* `synthetic_data_generated.csv`: The raw synthetic data before filtering.  
+* `syn_up.csv`: The raw synthetic data before filtering.  
 * Final hybrid dataset used for evaluation: Combined real and privacy-filtered synthetic data.
 
 ---
